@@ -36,6 +36,17 @@ Time limit: 40 seconds.
 
 Sample
 ------
+::
+
+    Input           Output
+    
+    3
+    4 3
+    3 1 9 100       Case #1: 14
+    6 2             Case #2: 0
+    5 5 1 2 3 4     Case #3: 6
+    5 5
+    7 7 1 7 7
 
 ::
 
