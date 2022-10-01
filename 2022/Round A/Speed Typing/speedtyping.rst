@@ -18,22 +18,29 @@ Output
 ------
 For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the number of extra letters that need to be removed in order to obtain I. If it is not possible to obtain I then output IMPOSSIBLE as y.
 
-###Limits
+Limits
+------
 Memory limit: 1 GB.
 1≤T≤100.
 Both the strings contain letters from a-z and A-Z.
 Length of the given strings will be 1≤|I|,|P|≤105.
+
 Test Set 1
+~~~~~~~~~~
 Time limit: 20 seconds.
 All letters in I are the same.
 
 Test Set 2
+~~~~~~~~~~
 Time limit: 40 seconds.
+
 Sample
+------
 Note: there are additional samples that are not run on submissions down below.
 Sample Input
 save_alt
 content_copy
+
 2
 aaaa
 aaaaa
