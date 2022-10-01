@@ -37,37 +37,36 @@ Time limit: 40 seconds.
 Sample
 ------
 Note: there are additional samples that are not run on submissions down below.
-Sample Input
-save_alt
-content_copy
 
+::
+
+Sample Input
 2
 aaaa
 aaaaa
 bbbbb
 bbbbc
+
 Sample Output
-save_alt
-content_copy
 Case #1: 1
 Case #2: IMPOSSIBLE
+
 In the first test case, P contains one extra a, so she needs to remove 1 extra letter in order to obtain I.
 In the second test case, Barbara typed only 4 letters b, while I consists of 5 letters b so the answer is IMPOSSIBLE.
 
 
 Additional Sample - Test Set 2
 The following additional sample fits the limits of Test Set 2. It will not be run against your submitted solutions.
+
+::
 Sample Input
-save_alt
-content_copy
 2
 Ilovecoding
 IIllovecoding
 KickstartIsFun
 kkickstartiisfun
+
 Sample Output
-save_alt
-content_copy
 Case #1: 2
 Case #2: IMPOSSIBLE
 In the first test case, P has 2 extra letters, I and l. The other letters are in the order given in I. So she needs to remove 2 letters in order to obtain I.
