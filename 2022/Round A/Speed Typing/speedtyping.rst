@@ -36,7 +36,6 @@ Time limit: 40 seconds.
 
 Sample
 ------
-Note: there are additional samples that are not run on submissions down below.
 
 ::
 
@@ -58,7 +57,6 @@ In the second test case, Barbara typed only 4 letters b, while I consists of 5 l
 Additional Sample - Test Set 2
 The following additional sample fits the limits of Test Set 2. It will not be run against your submitted solutions.
 
-::
 Sample Input
 2
 Ilovecoding
