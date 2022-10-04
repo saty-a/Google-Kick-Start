@@ -42,6 +42,6 @@ In Sample Case #3, there are five interesting integers between 451 and 460:
 
 #. 451 (product of its digits is 4×5×1=20, sum of its digits is 4+5+1=10).
 #. 453 (product of its digits is 4×5×3=60, sum of its digits is 4+5+3=12).
-456 (product of its digits is 4×5×6=120, sum of its digits is 4+5+6=15).
-459 (product of its digits is 4×5×9=180, sum of its digits is 4+5+9=18).
-460 (product of its digits is 4×6×0=0, sum of its digits is 4+6+0=10).
+#. 456 (product of its digits is 4×5×6=120, sum of its digits is 4+5+6=15).
+#. 459 (product of its digits is 4×5×9=180, sum of its digits is 4+5+9=18).
+#. 460 (product of its digits is 4×6×0=0, sum of its digits is 4+6+0=10).
