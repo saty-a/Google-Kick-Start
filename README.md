@@ -55,6 +55,6 @@ If you have any suggestions, we appreciate you raising an issue [here](https://g
 
 ## Contributors
 <a href="https://github.com/saty-a/Hacktoberfest2022/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=saty-a/Hacktoberfest2022" />
+ <img src="https://contrib.rocks/image?repo=saty-a/Hacktoberfest2022" />
 </a>
 
