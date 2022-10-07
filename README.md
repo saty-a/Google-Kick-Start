@@ -21,25 +21,30 @@ Each Kick Start Round is open to all participants, no pre-qualification needed, 
 <details>
 <summary>Problems</summary>
   
-| Problem                | Year | Round   |
-|------------------------|------|---------|
-| [Traning](https://github.com/saty-a/Hacktoberfest2022/tree/main/2019/Round%20A/Traning)                | 2019 | Round A |
-| [Building Palindromes](https://github.com/saty-a/Hacktoberfest2022/tree/main/2019/Round%20B/Building%20Palindromes)   | 2019 | Round B |
-| [Book Reading](https://github.com/saty-a/Hacktoberfest2022/tree/main/2019/Round%20G/Book%20Reading)           | 2019 | Round G |
-| [H-Index](https://github.com/saty-a/Hacktoberfest2022/tree/main/2019/Round%20H/H-Index)                | 2019 | Round H |
-| [Allocation](https://github.com/saty-a/Hacktoberfest2022/tree/main/2020/Round%20A/Allocation)             | 2020 | Round A |
-| [Bundling](https://github.com/saty-a/Hacktoberfest2022/tree/main/2020/Round%20A/Bundling)               | 2020 | Round A |
-| [Plates](https://github.com/saty-a/Hacktoberfest2022/tree/main/2020/Round%20A/Plates)                 | 2020 | Round A |
-| [Workout](https://github.com/saty-a/Hacktoberfest2022/tree/main/2020/Round%20A/Workout)                | 2020 | Round A |
-| [Round c](https://github.com/saty-a/Hacktoberfest2022/tree/main/2020/Round%20A/Round%20c)                | 2020 | Round A |
-| [Challenge Nine](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20A/Challenge%20Nine)         | 2022 | Round A |
-| [Interesting Integers](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20A/Interesting%20Integers)   | 2022 | Round A |
-| [Palindrom Free Strings](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20A/Palindrom%20Free%20Strings) | 2022 | Round A |
-| [Speed Typing](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20A/Speed%20Typing)           | 2022 | Round A |
-| [Hamiltonian Tour](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20B/Hamiltonian%20Tour)       | 2022 | Round B |
-| [Infinity Area](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20B/Infinity%20Area)          | 2022 | Round B |
-| [Palindromic Factors](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20B/Palindromic%20Factors)    | 2022 | Round B |
-| [Unlock the Padlock](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20B/Unlock%20the%20Padlock)     | 2022 | Round B |
+| Year | Round   | Problem                   | Answer                   |
+|------|---------|---------------------------|--------------------------|
+| 2019 | Round A | [Traning](https://github.com/saty-a/Hacktoberfest2022/tree/main/2019/Round%20A/Traning)       |  [Solution]()  |       
+| 2019 | Round B | [Building Palindromes](https://github.com/saty-a/Hacktoberfest2022/blob/main/2019/Round%20B/Building%20Palindromes/PROBLEM.rst)   | [Solution](https://github.com/saty-a/Hacktoberfest2022/blob/a5bb0d09798397217d41c6eb183c3158091353b5/2019/Round%20B/solution.cpp) |
+| 2019 | Round G | [Book Reading](https://github.com/saty-a/Hacktoberfest2022/blob/main/2019/Round%20G/Book%20Reading/PROBLEM.rst)       |  [Solution](https://github.com/saty-a/Hacktoberfest2022/blob/a5bb0d09798397217d41c6eb183c3158091353b5/2019/Round%20G/Book%20Reading/solution.cpp)  |
+| 2019 | Round H | [H-Index](https://github.com/saty-a/Hacktoberfest2022/blob/main/2019/Round%20H/H-Index)                |  [Solution](https://github.com/saty-a/Hacktoberfest2022/blob/a5bb0d09798397217d41c6eb183c3158091353b5/2019/Round%20H/H-Index/H_index.cpp)  |
+| 2020 | Round A | [Allocation](https://github.com/saty-a/Hacktoberfest2022/blob/main/2020/Round%20A/Allocation)             |  [Solution](https://github.com/saty-a/Hacktoberfest2022/blob/a5bb0d09798397217d41c6eb183c3158091353b5/2020/Round%20A/Allocation/allocation.cpp)  |
+| 2020 | Round A | [Bundling](https://github.com/saty-a/Hacktoberfest2022/blob/main/2020/Round%20A/Bundling)               |  [Solution](https://github.com/saty-a/Hacktoberfest2022/blob/a5bb0d09798397217d41c6eb183c3158091353b5/2020/Round%20A/Bundling/bundling.java)  |
+| 2020 | Round A | [Plates](https://github.com/saty-a/Hacktoberfest2022/blob/main/2020/Round%20A/Plates)                 |  [Solution](https://github.com/saty-a/Hacktoberfest2022/blob/a5bb0d09798397217d41c6eb183c3158091353b5/2020/Round%20A/Plates/plates.java)  |
+| 2020 | Round A | [Workout](https://github.com/saty-a/Hacktoberfest2022/blob/main/2020/Round%20A/Workout)                |  [Solution](https://github.com/saty-a/Hacktoberfest2022/blob/a5bb0d09798397217d41c6eb183c3158091353b5/2020/Round%20A/Workout/workout.java)  |
+| 2020 | Round C | [Count Down]()      |  [Solution](https://github.com/saty-a/Hacktoberfest2022/blob/a5bb0d09798397217d41c6eb183c3158091353b5/2020/Round%20C/countdown.cpp)  |
+| 2020 | Round C | [Perfect Subarray]()|  [Solution](https://github.com/saty-a/Hacktoberfest2022/blob/a5bb0d09798397217d41c6eb183c3158091353b5/2020/Round%20C/perfectsubarray.cpp)  |
+| 2021 | Round A | [Checksum]() | [Solution](https://github.com/saty-a/Hacktoberfest2022/blob/a5bb0d09798397217d41c6eb183c3158091353b5/2021/Round%20A/Checksum/checksum.cpp) |
+| 2021 | Round A | [I Shaped Plots]() | [Solution](https://github.com/saty-a/Hacktoberfest2022/blob/a5bb0d09798397217d41c6eb183c3158091353b5/2021/Round%20A/I%20Shaped%20Plots/l_shaped_plots.cpp) |
+| 2021 | Round A | [K Goodness String]() | [Solution](https://github.com/saty-a/Hacktoberfest2022/blob/a5bb0d09798397217d41c6eb183c3158091353b5/2021/Round%20A/K%20Goodness%20String/k_goodness_string.cpp) |
+| 2021 | Round A | [Rabbit House]() | [Solution](https://github.com/saty-a/Hacktoberfest2022/blob/a5bb0d09798397217d41c6eb183c3158091353b5/2021/Round%20A/Rabbit%20House/rabbit_house.cpp) |
+| 2022 | Round A | [Challenge Nine](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20A/Challenge%20Nine/problem.rst)         |  [Solution](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20A/Challenge%20Nine/Solution.cpp)  |
+| 2022 | Round A | [Interesting Integers](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20A/Interesting%20Integers/problem.rst)   |  [Solution](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20A/Interesting%20Integers/Solution.cpp)  |
+| 2022 | Round A | [Palindrom Free Strings](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20A/Palindrom%20Free%20Strings) |  [Solution]()  |
+| 2022 | Round A | [Speed Typing](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20A/Speed%20Typing/problem.rst)           |  [Solution](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20A/Speed%20Typing/Solution.cpp)  |
+| 2022 | Round B | [Hamiltonian Tour]()       |  [Solution](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20B/Hamiltonian%20Tour/Solution.cpp)  |
+| 2022 | Round B | [Infinity Area](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20B/Infinity%20Area/problem.md)          |  [Solution](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20B/Infinity%20Area/Solution%20Infinity%20Area.cpp)  |
+| 2022 | Round B | [Palindromic Factors]()    |  [Solution](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20B/Palindromic%20Factors/Solution.cpp)  |
+| 2022 | Round B | [Unlock the Padlock]()     |  [Solution](https://github.com/saty-a/Hacktoberfest2022/tree/main/2022/Round%20B/Unlock%20the%20Padlock/Solution.cpp)  |
   
 </details>
 
